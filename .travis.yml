@@ -8,13 +8,13 @@ install:
 - pwd
 - pip install -r requirements.txt --use-mirrors
 - pwd
-- git clone https://github.com/s2i2-hep/pelican-bootstrap3.git
+- git clone https://github.com/trackreco/pelican-themes.git
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - pwd
 - ls
 - wget http://www.tipue.com/search/tipuesearch.zip
 - unzip tipuesearch.zip
-- cp -r Tipue\ Search\ 5.0/tipuesearch pelican-bootstrap3/static/
+- cp -r Tipue\ Search\ 5.0/tipuesearch pelican-themes/static/
 notifications:
   email:
     on_success: always

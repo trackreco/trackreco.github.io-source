@@ -3,7 +3,7 @@
 set +x
 
 BRANCH=master
-TARGET_REPO=s2i2-hep/s2i2-hep.github.io.git
+TARGET_REPO=trackreco/trackreco.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'S2I2 HEP'
-SITENAME = u'S2I2 HEP'
+AUTHOR = u'Tracking Reconstruction'
+SITENAME = u'Tracking Reconstruction'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -29,7 +29,7 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  )
 
 # Social widget
-SOCIAL = (('github', 'http://github.com/s2i2-hep'),
+SOCIAL = (('github', 'http://github.com/trackreco'),
           ('Indico', 'http://indico.cern.ch/category/5816/'),
           ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
@@ -47,7 +47,7 @@ DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-THEME = 'pelican-bootstrap3'
+THEME = 'pelican-themes/backdrop'
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
@@ -96,13 +96,13 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 
 
 # comments
-DISQUS_SITENAME="s2i2-hep"
+DISQUS_SITENAME="trackreco"
 
 ''' For reference, this code
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 's2i2-hep';
+    var disqus_shortname = 'trackreco';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
