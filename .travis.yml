@@ -1,0 +1,29 @@
+branches:
+  only:
+  - master
+language: python
+python:
+- 2.7
+install:
+- pwd
+- pip install -r requirements.txt --use-mirrors
+- pwd
+- git clone https://github.com/s2i2-hep/pelican-bootstrap3.git
+- git clone --recursive https://github.com/getpelican/pelican-plugins
+- pwd
+- ls
+- wget http://www.tipue.com/search/tipuesearch.zip
+- unzip tipuesearch.zip
+- cp -r Tipue\ Search\ 5.0/tipuesearch pelican-bootstrap3/static/
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+script:
+- make html
+env:
+  global:
+  - secure: "DDDCqhKhqDMdwxBG/FdMzlB/sgj4rAk11vkWDjNotsLZUXKsoIF8qCypPYOx1GOCnA0XQXOnNot2doiBnYs++iplP2iUCNCxn7J9a35l8VvO47SPD34QBu+A0uralx9VztU2D6nQtHS7c9FqhE4+njCHVAzbCf+s/97c1+v+q1ZdbPrHw86C7JSx2oa5/zasdwdqDeiuj17EEMZjPJkUjjh9wLODql33ASw6SY8kE6tWWzWuLJ9wp38iCArWUJAwdfYwvEfiBc/F6JtZjaWMttJQU2PcFeCNGTdBwVSJ9cw15dJZWnNk28ah06wG+wSvovi7ORHhMCiofktNcwTL0rpekAF7alMqGJOcDQ61CtT0GJg3G3Lw2x8QOBmBHYWonBTEkrYP7l/rI0DXD2kJrpvX8bQle9pyrg80EF75EZILR8U9HrFyYnhgbMALyBWa1GmY2tDwOkHf71f9tAzHklz2cwi2yi0JwYK8Dz6Kfi1vICs0j6Nrpz0zffPz9qcL0hop06xdSAysF+F4i1KmpJTUwdb/VHLHJWcp5R6y2GDDI6Y1QOaFbuE60LciNaR35RU/0Fqc49ID4sUdgtafsu/ai3fElyiXF+7LHeZZEGLDerABaEy1IlGc6StG0eouNUfzeMAQHV1akbTvS8arAULsSXAUtvtJuo/h1npHnek="
+before_install:
+- git submodule update --init --recursive
+after_success: bash deploy.sh
