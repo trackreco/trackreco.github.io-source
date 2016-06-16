@@ -47,18 +47,18 @@ DISPLAY_TAGS_ON_SIDEBAR=False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
 
 
-THEME = 'pelican-themes/backdrop'
+THEME = 'pelican-themes/pelican-bootstrap3'
 #THEME = 'notmyidea'
 PYGMENTS_STYLE='default'
 #PYGMENTS_STYLE='friendly'
 #THEME = '/Users/cranmer/virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/pelican-bootstrap3'
 # This requires Pelican 3.3+
 
-#For pelican-ootstrap3
+#For pelican-bootstrap3
 BOOTSTRAP_THEME='simplex'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
-BOOTSTRAP_THEME='cosmo'
+#BOOTSTRAP_THEME='cosmo'
 #BOOTSTRAP_THEME='paper'
 DISPLAY_BREADCRUMBS=False
 
