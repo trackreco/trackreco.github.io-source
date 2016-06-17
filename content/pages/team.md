@@ -14,13 +14,13 @@ Summary: Project team for parallel tracking project
 
   * [Frank Wuerthwein](https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494) (PI) - University of California San Diego, Department of Physics
 
-  * Matthieu Lefebvre - Princeton University, Department of Physics
+  * [Matthieu Lefebvre](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=ml15&display=Primary%20Contacts%20and%20Technical%20Staff) - Princeton University, Research Computing
 
   * Dan Riley - Cornell University, Department of Physics
 
   * Kevin McDermott - Cornell University, Department of Physics
 
-  * [Steve Lantz](http://www.cac.cornell.edu/slantz/)- Cornell University, Department of Physics
+  * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
   * Giuseppe Cerati - University of California San Diego, Department of Physics
 
