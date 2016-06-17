@@ -69,7 +69,7 @@ BANNER_ALL_PAGES = False
 
 
 #custom CSS
-CUSTOM_CSS = 'static/custom.css'
+#CUSTOM_CSS = 'static/custom.css'
 
 
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
