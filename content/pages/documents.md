@@ -1,22 +1,19 @@
 Title: Documents
-date: 2015-05-10 10:53
+date: 2016-06-17 10:53
 slug: documents.html
 Authors: Peter Elmer
 Summary: Documents
 
-### S2I2-HEP Conceptualization Documents
+### Publications
 
-  * [NSF Proposal - Conceptualization of an S2I2 Institute for High Energy Physics](../downloads/files/s2i2-2015-nsf-proposal.pdf)
+  * Kalman Filter Tracking on Parallel Architectures - Submitted to proceedings of Connecting The Dots 2016 (CTD2016) [arXiv:1605.05508](http://arxiv.org/abs/1605.05508)
 
-### Previous Community Documents
+  * Kalman-Filter-Based Particle Tracking on Parallel Architectures at Hadron Colliders - Proceedings of the 2015 IEEE NSS/MIC Conference, San Diego, CA [arXiv:1601.08245](http://arxiv.org/abs/1601.08245)
 
-  * DOE - [High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)](http://arxiv.org/abs/1510.08545)
+  * Kalman Filter Tracking on Parallel Architectures - [arXiv:1505.04540](http://arxiv.org/abs/1505.04540)
 
-<!---  * [HEP-FCE Working Group on Libraries and Tools](http://arxiv.org/abs/1506.01309) --->
+  * Traditional Tracking with Kalman Filter on Parallel Architectures - proceedings of 16th International workshop on Advanced Computing and Analysis Techniques in physics research (ACAT 2014) [arXiv:1409.8213](http://arxiv.org/abs/1409.8213)
 
-  * Snowmass:
+### Public Presentations
 
-    * [Planning the Future of U.S. Particle Physics (Snowmass 2013): Chapter 9: Computing](http://arxiv.org/abs/1401.6117)
-
-    * [Snowmass Computing Frontier: Software Development, Staffing and Training](http://arxiv.org/abs/1311.2567)
-
+  * [Parallelized Tracking](https://www.jlab.org/conferences/trends2016/talks/cerati.pdf) - G.Cerati, [Future Trends in Nuclear Physics Computing](https://www.jlab.org/conferences/trends2016/) workshop
