@@ -16,7 +16,7 @@ Summary: Publications and Presentations
 
 ### Presentations
 
-  * 19 May 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/506353/contributions/2150036/attachments/1276116/1893325/uscms2016_mcdermott_kf-par-arch.pdf) - K.McDermott [US CMS Collaboration Meeting](https://indico.cern.ch/event/506353/)
+  * 19 May 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/506353/contributions/2150036/attachments/1276116/1893325/uscms2016_mcdermott_kf-par-arch.pdf) - K.McDermott, [US CMS Collaboration Meeting](https://indico.cern.ch/event/506353/)
 
   * 16 Mar 2016 - [Parallelized Tracking](https://www.jlab.org/conferences/trends2016/talks/cerati.pdf) - G.Cerati, [Future Trends in Nuclear Physics Computing workshop](https://www.jlab.org/conferences/trends2016/) 
 
