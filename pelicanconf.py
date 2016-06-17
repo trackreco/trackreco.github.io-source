@@ -24,6 +24,8 @@ MENUITEMS = (
 
 # Blogroll
 LINKS =  (('NSF','http://www.nsf.gov/'),
+          ('CMS','http://cms.web.cern.ch'),
+          ('CERN','http://cern.ch'),
 		  )
 
 # Social widget
@@ -42,8 +44,7 @@ RELATIVE_URLS = False
 
 
 DISPLAY_TAGS_ON_SIDEBAR=False
-DISPLAY_RECENT_POSTS_ON_SIDEBAR=True
-
+DISPLAY_RECENT_POSTS_ON_SIDEBAR=False
 
 THEME = 'pelican-themes/pelican-bootstrap3'
 #THEME = 'notmyidea'
