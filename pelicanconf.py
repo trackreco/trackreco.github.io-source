@@ -17,7 +17,7 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-			('About','/pages/about.html'),
+			('Project Team','/pages/team.html'),
 			('Documents','/pages/documents.html'),
             ('Blog','/category/blog.html')
 			)
@@ -29,11 +29,11 @@ LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
 		  )
 
 # Social widget
-SOCIAL = (('github', 'http://github.com/trackreco'),
-          ('Indico', 'http://indico.cern.ch/category/5816/'),
-          ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
+#SOCIAL = (('github', 'http://github.com/trackreco'),
+#          ('Indico', 'http://indico.cern.ch/category/5816/'),
+#          ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
-CC_LICENSE="CC-BY"
+#CC_LICENSE="CC-BY"
 
 
 DEFAULT_PAGINATION = 10
