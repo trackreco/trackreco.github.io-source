@@ -24,6 +24,8 @@ Summary: Project team for parallel tracking project
 
   * Giuseppe Cerati - University of California San Diego, Department of Physics
 
+  * Slava Krutelyov - University of California San Diego, Department of Physics
+
   * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
 
 ### Acknowledgement
