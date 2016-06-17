@@ -23,8 +23,7 @@ MENUITEMS = (
 			)
 
 # Blogroll
-LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
-		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
+LINKS =  (('NSF','http://www.nsf.gov/'),
 		  )
 
 # Social widget
@@ -54,7 +53,7 @@ PYGMENTS_STYLE='default'
 # This requires Pelican 3.3+
 
 #For pelican-bootstrap3
-BOOTSTRAP_THEME='spacelab'
+BOOTSTRAP_THEME='journal'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 #BOOTSTRAP_THEME='cosmo'
