@@ -18,13 +18,12 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('Project Team','/pages/team.html'),
-			('Documents','/pages/documents.html'),
+			('Publications and Presentations','/pages/documents.html'),
             ('Blog','/category/blog.html')
 			)
 
 # Blogroll
 LINKS =  (('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
-		  ('DIANA/HEP','http://diana-hep.org'),
 		  ('HEP Software Foundation','http://hepsoftwarefoundation.org'),
 		  )
 
