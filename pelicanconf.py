@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Tracking Reconstruction'
-SITENAME = u'Tracking Reconstruction'
+AUTHOR = u'Parallel Kalman Filter Tracking Reconstruction'
+SITENAME = u'Parallel Kalman Filter Tracking Reconstruction'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
