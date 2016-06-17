@@ -53,7 +53,7 @@ PYGMENTS_STYLE='default'
 # This requires Pelican 3.3+
 
 #For pelican-bootstrap3
-BOOTSTRAP_THEME='journal'
+BOOTSTRAP_THEME='flatly'
 #BOOTSTRAP_THEME='yeti'
 #BOOTSTRAP_THEME='superhero' #nice but, background doesn't work well with code as is
 #BOOTSTRAP_THEME='cosmo'
