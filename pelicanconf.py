@@ -23,10 +23,11 @@ MENUITEMS = (
 			)
 
 # Blogroll
-LINKS =  (('NSF','http://www.nsf.gov/'),
+LINKS =  (
           ('CMS','http://cms.web.cern.ch'),
           ('Atlas','http://home.cern/about/experiments/atlas'),
           ('CERN','http://cern.ch'),
+          ('NSF','http://www.nsf.gov/'),
 		  )
 
 # Social widget
