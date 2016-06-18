@@ -25,6 +25,7 @@ MENUITEMS = (
 # Blogroll
 LINKS =  (('NSF','http://www.nsf.gov/'),
           ('CMS','http://cms.web.cern.ch'),
+          ('Atlas','http://home.cern/about/experiments/atlas'),
           ('CERN','http://cern.ch'),
 		  )
 
