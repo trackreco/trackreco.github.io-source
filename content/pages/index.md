@@ -18,15 +18,16 @@ was discovered by the [CMS](http://cms.web.cern.ch) and
 
 The LHC collides proton beams at the center of our detectors.
 By measuring the energy and momentum of the escaping particles, we
-infer the existence of massive particles that were created and
-decayed in the collisions and measure those massive particles’
-properties. The determination of the trajectories of charged particles 
+infer the existence of massive particles that were created in the collisions
+and measure the massive particles’ properties based on their decay products.
+The determination of the trajectories of charged particles 
 ("tracks") from a set of positions of energy deposits from the various layers 
-in our detector ("hits"), plays a key role in identifying particles and 
-measuring their charge and momentum. This pattern recognition problem
-(known as "track reconstruction" or simply "tracking") is as a whole the 
-most computationally complex and time consuming, most sensitive to increased 
-activity in the detector, and traditionally, least amenable to parallelized 
+in our detector ("hits") plays a key role in identifying particles and 
+measuring their charge and momentum. This pattern recognition
+problem&mdash;known as "track reconstruction" or simply "tracking"&mdash;is
+as a whole the most computationally complex and time-consuming step in the
+measurement process, as well as the most sensitive to increased activity in 
+the detector, and traditionally, the least amenable to parallelized 
 processing.
 
 This project aims to develop tracking algorithms based on the Kalman Filter 
