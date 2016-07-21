@@ -28,6 +28,7 @@ LINKS =  (
           ('Atlas','http://home.cern/about/experiments/atlas'),
           ('CERN','http://cern.ch'),
           ('NSF','http://www.nsf.gov/'),
+          ('Indico','https://indico.cern.ch/category/8433/'),
 		  )
 
 # Social widget
