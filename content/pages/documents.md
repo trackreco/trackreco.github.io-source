@@ -16,6 +16,8 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 12 Oct 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/505613/contributions/2254599/attachments/1347645/2043445/Oral-115-v8.pdf) - D.Riley, [CHEP 2016](http://chep2016.org)
+
   * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43) - D.Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
 
   * 19 May 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/506353/contributions/2150036/attachments/1276116/1893325/uscms2016_mcdermott_kf-par-arch.pdf) - K.McDermott, [US CMS Collaboration Meeting](https://indico.cern.ch/event/506353/)
