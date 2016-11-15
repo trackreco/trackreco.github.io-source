@@ -6,7 +6,7 @@ Summary: Publications and Presentations
 
 ### Publications
 
-  * [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](http://arxiv.org/abs/1605.05508) - Submitted to proceedings of [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna) [arXiv:1605.05508](http://arxiv.org/abs/1605.05508)
+  * [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](http://arxiv.org/abs/1605.05508) - Proceedings of [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna) [arXiv:1605.05508](http://arxiv.org/abs/1605.05508), Proceedings: [DOI](http://dx.doi.org/10.1051/epjconf/201612700010), [pdf](http://www.epj-conferences.org/articles/epjconf/pdf/2016/22/epjconf_dots2016_00010.pdf)
 
   * [Kalman-Filter-Based Particle Tracking on Parallel Architectures at Hadron Colliders](http://arxiv.org/abs/1601.08245) - Proceedings of the [2015 IEEE NSS/MIC Conference](http://www.nss-mic.org/2015/public/welcome.asp) (San Diego, CA) [arXiv:1601.08245](http://arxiv.org/abs/1601.08245)
 
