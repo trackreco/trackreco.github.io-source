@@ -1,5 +1,4 @@
 pelican
 Markdown
 fabric
-ipython[notebook]
 beautifulsoup4
