@@ -5,7 +5,6 @@ Authors: Peter Elmer
 Summary: Parallel Kalman Filter Tracking Reconstruction
 Template: homepage
 
-
 The [Large Hadron Collider (LHC)](http://home.cern/topics/large-hadron-collider) at [CERN](http://home.cern/) is the highest energy
 collider ever constructed. It consists of two counter-circulating
 proton beams made to interact in four locations around a 27 kilometer
