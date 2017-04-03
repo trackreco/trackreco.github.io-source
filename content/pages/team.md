@@ -22,11 +22,15 @@ Summary: Project team for parallel tracking project
 
   * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
-  * Giuseppe Cerati - University of California San Diego, Department of Physics
-
   * Slava Krutelyov - University of California San Diego, Department of Physics
 
+  * Mario Masciovecchio - University of California San Diego, Department of Physics
+
   * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
+
+### Collaborators
+
+  * Giuseppe Cerati - Fermi National Accelerator Laboratory
 
 ### Acknowledgement
 
