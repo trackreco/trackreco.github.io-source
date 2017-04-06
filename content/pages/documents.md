@@ -18,6 +18,8 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 4 Apr 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs, Part I](https://indico.cern.ch/event/627874/contributions/2535873/attachments/1439210/2214757/mictrack_cmsweek_040417.pdf) - K.McDermott, [CMS Offline/Computing R&D Session (Open)](https://indico.cern.ch/event/627874/)
+
   * 8 Mar 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](https://indico.cern.ch/event/577003/contributions/2445865/attachments/1424014/2183659/CtD2017_lefebvre.pdf) - M.Lefebvre, [Connecting The Dots / Intelligent Trackers (CTDWIT 2017)](https://indico.cern.ch/event/577003/)
 
   * 12 Oct 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/505613/contributions/2254599/attachments/1347645/2043445/Oral-115-v8.pdf) - D.Riley, [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org)
