@@ -36,6 +36,9 @@ Summary: Publications and Presentations
 
   * 13 Jan 2016 - [Kalman Filter Tracking on Parallel Architectures](http://cd-docdb.fnal.gov/cgi-bin/RetrieveFile?docid=5676&filename=fnal-2016-01-13-trk-mic.pdf&version=1) - G.Cerati, FNAL Computing Techniques Seminar
 
-  * 17 November 2015 - [High Performance Computing in the Manycore Era: Challenges for Applications](https://www.cac.cornell.edu/Education/HPCinManycoreEra.pdf) - S.Lantz, [Center for Applied and Computational Mathematics (CACM) Seminar](https://www.rit.edu/science/cacm-lantz) (Rochester Institute of Technology)
+  * 17 Nov 2015 - [High Performance Computing in the Manycore Era: Challenges for Applications](https://www.cac.cornell.edu/Education/HPCinManycoreEra.pdf) - S.Lantz, [Center for Applied and Computational Mathematics (CACM) Seminar](https://www.rit.edu/science/cacm-lantz) (Rochester Institute of Technology)
 
-  * 13 April 2015 - [Vectorization and Parallelization of Track Reconstruction Codes for the Large Hadron Collider](https://dl.dropboxusercontent.com/u/6986386/SCAN_seminar_combined.pdf) - P.Wittich and S.Lantz, [Scientific Computing and Numerics (SCAN) Seminar](http://www.math.cornell.edu/~scan/index-s15.html) (Cornell University)
+  * 13 Apr 2015 - [Vectorization and Parallelization of Track Reconstruction Codes for the Large Hadron Collider](https://dl.dropboxusercontent.com/u/6986386/SCAN_seminar_combined.pdf) - P.Wittich and S.Lantz, [Scientific Computing and Numerics (SCAN) Seminar](http://www.math.cornell.edu/~scan/index-s15.html) (Cornell University)
+
+  * 13 Apr 2015 - [Kalman Filter Tracking on Parallel Architectures](https://indico.cern.ch/event/304944/contributions/1672573/attachments/578772/796953/mictrk-cerati-CHEP2015.pdf) - G.Cerati, [21st International Conference on Computing in High Energy and Nuclear Physics (CHEP2015)](https://indico.cern.ch/event/304944/overview)
+
