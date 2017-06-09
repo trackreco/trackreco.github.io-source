@@ -8,7 +8,7 @@ Summary: Project team for parallel tracking project
 
   * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (PI) - Princeton University, Department of Physics
 
-  * [Peter Wittich](http://www.physics.cornell.edu/professorspeople/professors/?page=website/faculty&action=show/id=51) (PI) - Cornell University, Department of Physics
+  * [Peter Wittich](http://physics.cornell.edu/peter-wittich) (PI) - Cornell University, Department of Physics
 
   * [Avi Yagil](http://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688) (PI) - University of California, San Diego, Department of Physics
 
