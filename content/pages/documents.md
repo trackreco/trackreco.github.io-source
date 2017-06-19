@@ -12,7 +12,7 @@ Summary: Publications and Presentations
 
   * [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](http://arxiv.org/abs/1605.05508) - Proceedings of [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna) [arXiv:1605.05508](http://arxiv.org/abs/1605.05508), Proceedings: [DOI](http://dx.doi.org/10.1051/epjconf/201612700010), [pdf](http://www.epj-conferences.org/articles/epjconf/pdf/2016/22/epjconf_dots2016_00010.pdf)
 
-  * [Kalman-Filter-Based Particle Tracking on Parallel Architectures at Hadron Colliders](http://arxiv.org/abs/1601.08245) - Proceedings of the [2015 IEEE NSS/MIC Conference](http://www.nss-mic.org/2015/public/welcome.asp) (San Diego, CA) [arXiv:1601.08245](http://arxiv.org/abs/1601.08245)
+  * [Kalman-Filter-Based Particle Tracking on Parallel Architectures at Hadron Colliders](http://arxiv.org/abs/1601.08245) - Proceedings of the [2015 IEEE NSS/MIC Conference](http://www.nss-mic.org/2015/public/welcome.asp) (San Diego, CA) [arXiv:1601.08245](http://arxiv.org/abs/1601.08245), Proceedings: [DOI](https://doi.org/10.1109/NSSMIC.2015.7581932), [pdf](http://ieeexplore.ieee.org/iel7/7572833/7581238/07581932.pdf)
 
   * [Kalman Filter Tracking on Parallel Architectures](http://iopscience.iop.org/article/10.1088/1742-6596/664/7/072008/pdf) - Journal of Physics: Conference Series 664 (2015) 072008, Proceedings of the [21st International Conference on Computing in High Energy and Nuclear Physics (CHEP2015)](http://chep2015.kek.jp/programs.html) (Okinawa) [arXiv:1505.04540](http://arxiv.org/abs/1505.04540)
 
