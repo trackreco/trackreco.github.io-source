@@ -6,6 +6,8 @@ Summary: Publications and Presentations
 
 ### Publications
 
+  * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](https://arxiv.org/abs/1705.02876) - Submitted to proceedings of [Connecting The Dots / Intelligent Trackers 2017](https://indico.cern.ch/event/577003/) (Orsay) [arXiv:1705.02876](https://arxiv.org/abs/1705.02876)
+
   * [Kalman filter tracking on parallel architectures](https://arxiv.org/abs/1702.06359) - Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1702.06359](https://arxiv.org/abs/1702.06359)  
 
   * [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](http://arxiv.org/abs/1605.05508) - Proceedings of [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna) [arXiv:1605.05508](http://arxiv.org/abs/1605.05508), Proceedings: [DOI](http://dx.doi.org/10.1051/epjconf/201612700010), [pdf](http://www.epj-conferences.org/articles/epjconf/pdf/2016/22/epjconf_dots2016_00010.pdf)
