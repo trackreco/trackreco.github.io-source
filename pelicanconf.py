@@ -24,6 +24,7 @@ MENUITEMS = (
 
 # Blogroll
 LINKS =  (
+          ('CoDaS-HEP school','http://codas-hep.org'),
           ('CMS','http://cms.web.cern.ch'),
           ('Atlas','http://home.cern/about/experiments/atlas'),
           ('CERN','http://cern.ch'),

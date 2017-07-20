@@ -36,3 +36,14 @@ Xeon Phi and GPUs, but yet maintain and extend the physics performance
 required for the challenges for the High Luminosity LHC (HL-LHC) planned
 for the 2020s.
 
+The project also provides training for young researchers through a dedicated 
+school on tools, techniques and methods for Computational and Data Science
+for High Energy Physics (CoDaS-HEP) The CoDaS-HEP school provides
+a broad introduction to these critical skills as well as an overview
+of applications High Energy Physics. Specific topics to be covered
+at the school include: Parallel Programming, Big Data Tools and
+Techniques, Machine Learning Technology and Methods as well as
+practical skills. The first CoDaS-HEP school took place on 10-13 July, 2017, 
+at Princeton University. The second CoDaS-HEP school is being planned for 
+2018.
+
