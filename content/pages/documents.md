@@ -20,6 +20,10 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 31 Aug 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](http://http://trackreco.github.io/downloads/20170829_kf_reco_nvidia.pptx) - M.Lefebvre, NVIDIA Technical Working Meeting
+
+  * 21 Aug 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](https://indico.cern.ch/event/567550/contributions/2629722/attachments/1510614/2355643/KalmanManyCore.pdf) - D.Riley, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](http://chep2016.org)
+
   * 4 Apr 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs, Part I](https://indico.cern.ch/event/627874/contributions/2535873/attachments/1439210/2214757/mictrack_cmsweek_040417.pdf) - K.McDermott, [CMS Offline/Computing R&D (Open Session at Apr2017 CMS Week)](https://indico.cern.ch/event/627874/)
 
   * 8 Mar 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](https://indico.cern.ch/event/577003/contributions/2445865/attachments/1424014/2183659/CtD2017_lefebvre.pdf) - M.Lefebvre, [Connecting The Dots / Intelligent Trackers (CTDWIT 2017)](https://indico.cern.ch/event/577003/)
