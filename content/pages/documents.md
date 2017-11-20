@@ -6,6 +6,8 @@ Summary: Publications and Presentations
 
 ### Publications
 
+  * [Kalman filter tracking on parallel architectures](http://arxiv.org/abs/1711.06571) - Submitted to the Proceedings of the [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.06571](http://arxiv.org/abs/1711.06571)
+
   * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](https://indico.cern.ch/event/577003/) - Proceedings of [Connecting The Dots / Intelligent Trackers 2017](https://indico.cern.ch/event/577003/) (Orsay) [DOI](https://doi.org/10.1051/epjconf/201715000006), [pdf](http://www.epj-conferences.org/articles/epjconf/pdf/2017/19/epjconf_ctdw2017_00006.pdf)
 
   * [Kalman filter tracking on parallel architectures](https://arxiv.org/abs/1702.06359) - Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1702.06359](https://arxiv.org/abs/1702.06359)  
