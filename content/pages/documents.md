@@ -22,6 +22,8 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 21 Mar 2018 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks with Accurate Detector Geometry](https://indico.cern.ch/event/658267/contributions/2813732/attachments/1621151/2579355/Tadel-PKF-FullGeom-Ctd2018.pdf) - M.Tadel, [Connecting the Dots 2018](https://indico.cern.ch/event/658267/)
+
   * 6 Nov 2017 - [Parallelized KF Tracking](https://indico.cern.ch/event/675097/contributions/2762418/attachments/1552851/2440551/mkFit_TRKPOG_110617.pdf) - S.Krutelyov, [CMS Tracking POG Meeting](https://indico.cern.ch/event/675097/)
 
   * 16 Oct 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](https://indico.cern.ch/event/670408/contributions/2742244/attachments/1533333/2417150/PKF-CmsRD-2017-10-16.pdf) - M.Tadel, [CMS Software/Computing R&D Meeting](https://indico.cern.ch/event/670408/)
