@@ -14,8 +14,6 @@ Summary: Project team for parallel tracking project
 
   * [Frank Wuerthwein](https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494) (PI) - University of California San Diego, Department of Physics
 
-  * [Matthieu Lefebvre](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=ml15&display=Primary%20Contacts%20and%20Technical%20Staff) - Princeton University, Research Computing
-
   * Dan Riley - Cornell University, Department of Physics
 
   * Kevin McDermott - Cornell University, Department of Physics
@@ -30,11 +28,22 @@ Summary: Project team for parallel tracking project
 
 ### Collaborators
 
-  * Giuseppe Cerati - Fermi National Accelerator Laboratory
+  * [Giuseppe Cerati](http://computing.fnal.gov/giuseppe-cerati/) - Fermi National Accelerator Laboratory, Computing Division
 
+  * Allie Reinsvold Hall - Fermi National Accelerator Laboratory
+  
+  * [Boyana Norris](https://ix.cs.uoregon.edu/~norris/) - University of Oregon, Department of Computer and Information Science
+  
+  * [Brian Gravelle](https://ix.cs.uoregon.edu/~gravelle/) - University of Oregon, Department of Computer and Information Science
+
+### Former Contributors
+
+  * Matthieu Lefebvre - Princeton University, Research Computing
+
+  * Ian MacNeill - University of California, San Diego, Department of Physics
+  
+  * David Abdurachmanov - CERN
+  
 ### Acknowledgement
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants PHY-1520942, PHY-1520969, PHY-1521042 and PHY-1120138. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
-
-
-
