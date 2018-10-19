@@ -6,7 +6,7 @@ Summary: Publications and Presentations
 
 ### Publications
 
-  * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](http://arxiv.org/abs/1711.06571) - Submitted to the Proceedings of the [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv](http://arxiv.org/abs/1711.06571)
+  * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](http://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042016) - Proceedings of the [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv](http://arxiv.org/abs/1711.06571), [DOI](https://doi.org/10.1088/1742-6596/1085/4/042016) [pdf](http://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042016/pdf)
 
   * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](http://www.epj-conferences.org/articles/epjconf/abs/2017/19/epjconf_ctdw2017_00006) - Proceedings of [Connecting The Dots / Intelligent Trackers 2017](https://indico.cern.ch/event/577003/) (Orsay) [arXiv](http://arxiv.org/abs/1705.02876), [DOI](http://doi.org/10.1051/epjconf/201715000006), [pdf](http://www.epj-conferences.org/articles/epjconf/pdf/2017/19/epjconf_ctdw2017_00006.pdf)
 
