@@ -44,8 +44,6 @@ well as an overview of applications High Energy Physics. Specific
 topics to be covered at the school include: Parallel Programming,
 Big Data Tools and Techniques, Machine Learning Technology and
 Methods as well as practical skills. The first CoDaS-HEP school
-took place on [10-13 July, 2017, at Princeton University]
-(https://indico.cern.ch/event/625333/). The second CoDaS-HEP school
-took place on [23-27 July, 2018, at Princeton University]
-(https://indico.cern.ch/event/707498/).
+took place on [10-13 July, 2017, at Princeton University](https://indico.cern.ch/event/625333/). 
+The second CoDaS-HEP school took place on [23-27 July, 2018, at Princeton University](https://indico.cern.ch/event/707498/).
 
