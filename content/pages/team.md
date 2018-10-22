@@ -22,7 +22,7 @@ Summary: Project team for parallel tracking project
 
   * Slava Krutelyov - University of California San Diego, Department of Physics
 
-  * Mario Masciovecchio - University of California San Diego, Department of Physics
+  * Mario Masciovecchio - University of California San Diego, Department of Physics 
 
   * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
 
