@@ -6,7 +6,7 @@ Summary: Project team for parallel tracking project
 
 ### Project Team
 
-  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) (PI) - Princeton University, Department of Physics
+  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) (PI) - Princeton University, Department of Physics 
 
   * [Peter Wittich](http://physics.cornell.edu/peter-wittich) (PI) - Cornell University, Department of Physics
 
