@@ -28,9 +28,9 @@ Summary: Project team for parallel tracking project
 
 ### Collaborators
 
-  * [Giuseppe Cerati](http://computing.fnal.gov/giuseppe-cerati/) - Fermi National Accelerator Laboratory, Computing Division
+  * [Giuseppe Cerati](http://computing.fnal.gov/giuseppe-cerati/) - Fermi National Accelerator Laboratory, Scientific Computing Division
 
-  * Allie Reinsvold Hall - Fermi National Accelerator Laboratory
+  * Allie Reinsvold Hall - Fermi National Accelerator Laboratory, Scientific Computing Division
   
   * [Boyana Norris](https://ix.cs.uoregon.edu/~norris/) - University of Oregon, Department of Computer and Information Science
   
