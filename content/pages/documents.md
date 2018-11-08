@@ -22,6 +22,8 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 08 Nov 2018 - [Parallelized KF tracking with Matriplex & mkFit](https://indico.cern.ch/event/767256/contributions/3186911/attachments/1748733/2832514/KF_ECoM2x_Mario-Masciovecchio.pdf) - M. Masciovecchio, [ECoM2X Group Meeting](https://indico.cern.ch/event/767256/)
+
   * 26 Jun 2018 - [Update on vectorized KF track reconstruction](https://indico.cern.ch/event/738198/contributions/3046212/attachments/1674985/2688802/mkFit_TSG_260618v1.pdf) - S. Krutelyov, [CMS Trigger Studies Group Meeting, CMS Week](https://indico.cern.ch/event/738198/)
 
   * 21 Mar 2018 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks with Accurate Detector Geometry](https://indico.cern.ch/event/658267/contributions/2813732/attachments/1621151/2579355/Tadel-PKF-FullGeom-Ctd2018.pdf) - M.Tadel, [Connecting the Dots 2018](https://indico.cern.ch/event/658267/)
