@@ -4,7 +4,7 @@ slug: documents.html
 Authors: Peter Elmer
 Summary: Publications and Presentations
 
-### Publications
+### Publications  
 
   * Parallelized and Vectorized Tracking Using Kalman Filters with CMS Detector Geometry and Events - Proceedings of the [23rd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv](https://arxiv.org/abs/1811.04141)
 
