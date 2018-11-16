@@ -81,7 +81,9 @@ BANNER_ALL_PAGES = False
 
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
-STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
+#STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
+#                'downloads/files','downloads/code', 'favicon.png']
+STATIC_PATHS = ['images','css', 'downloads', 
                 'downloads/files','downloads/code', 'favicon.png']
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
@@ -90,13 +92,17 @@ EXTRA_PATH_METADATA = {
 }
 
 CODE_DIR = 'downloads/code'
-NOTEBOOK_DIR = 'downloads/notebooks'
+#NOTEBOOK_DIR = 'downloads/notebooks'
 FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
+#PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+#			'liquid_tags.youtube', 'render_math',
+#           'liquid_tags.include_code', 'liquid_tags.notebook',
+#           'liquid_tags.literal', 'tipue_search']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 			'liquid_tags.youtube', 'render_math',
-           'liquid_tags.include_code', 'liquid_tags.notebook',
+           'liquid_tags.include_code', 
            'liquid_tags.literal', 'tipue_search']
 
 
