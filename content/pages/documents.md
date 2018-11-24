@@ -24,7 +24,9 @@ Summary: Publications and Presentations
 
 ### Presentations
 
-  * 08 Nov 2018 - [Parallelized KF tracking with Matriplex & mkFit](https://indico.cern.ch/event/767256/contributions/3186911/attachments/1748733/2832514/KF_ECoM2x_Mario-Masciovecchio.pdf) - M. Masciovecchio, [ECoM2X Group Meeting](https://indico.cern.ch/event/767256/)
+  * 08 Nov 2018 - [Parallelized KF tracking with Matriplex & mkFit](https://indico.cern.ch/event/767256/contributions/3186911/attachments/1748733/2832514/KF_ECoM2x_Mario-Masciovecchio.pdf) - M. Masciovecchio, [CMS ECoM2X Group Meeting](https://indico.cern.ch/event/767256/)
+
+  * 10 Jul 2018 - [Parallelized and Vectorized Tracking Using Kalman Filters with CMS Detector Geometry and Events](https://indico.cern.ch/event/587955/contributions/2937620/attachments/1683963/2706909/Chep2018-PKF.pdf) - M. Tadel, [CHEP 2018](http://chep2018.org}
 
   * 26 Jun 2018 - [Update on vectorized KF track reconstruction](https://indico.cern.ch/event/738198/contributions/3046212/attachments/1674985/2688802/mkFit_TSG_260618v1.pdf) - S. Krutelyov, [CMS Trigger Studies Group Meeting, CMS Week](https://indico.cern.ch/event/738198/)
 
