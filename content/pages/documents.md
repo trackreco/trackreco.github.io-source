@@ -40,7 +40,7 @@ Summary: Publications and Presentations
 
   * 16 Oct 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](https://indico.cern.ch/event/670408/contributions/2742244/attachments/1533333/2417150/PKF-CmsRD-2017-10-16.pdf) - M. Tadel, [CMS Software/Computing R&D Meeting](https://indico.cern.ch/event/670408/)
 
-  * 31 Aug 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](http://trackreco.github.io/downloads/20170829_kf_reco_nvidia.pptx) - M.Lefebvre, NVIDIA Technical Working Meeting
+  * 31 Aug 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Processors and GPUs](http://trackreco.github.io/downloads/20170829_kf_reco_nvidia.pptx) - M. Lefebvre, NVIDIA Technical Working Meeting
 
   * 21 Aug 2017 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](https://indico.cern.ch/event/567550/contributions/2629722/attachments/1510614/2355643/KalmanManyCore.pdf) - D. Riley, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](http://chep2016.org)
 
@@ -56,7 +56,7 @@ Summary: Publications and Presentations
 
   * 9 May 2016 - [Particle Track Reconstruction for the Large Hadron Collider: Progress in Many-Core Parallel Computing](https://www.cac.cornell.edu/Education/PtcleTrackRecoLHC.pdf) - S. Lantz, [Scientific Computing and Numerics (SCAN) Seminar](http://www.math.cornell.edu/~scan/index-s16.html) (Cornell University)
 
-  * 16 Mar 2016 - [Parallelized Tracking](https://www.jlab.org/conferences/trends2016/talks/cerati.pdf) - G.C erati, [Future Trends in Nuclear Physics Computing workshop](https://www.jlab.org/conferences/trends2016/) 
+  * 16 Mar 2016 - [Parallelized Tracking](https://www.jlab.org/conferences/trends2016/talks/cerati.pdf) - G. Cerati, [Future Trends in Nuclear Physics Computing workshop](https://www.jlab.org/conferences/trends2016/) 
 
   * 22 Feb 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.hephy.oeaw.ac.at/event/86/session/0/contribution/12/material/slides/0.pdf) - K. McDermott, [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna)
 
