@@ -24,6 +24,8 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 05 Dec 2018 - [Update on the mkFit Project](https://indico.cern.ch/event/775533/contributions/3233620/attachments/1765970/2867262/MkFitUpdate-CMSWeekDec2018-Hall.pdf) - A. Reinsvold Hall, [Tracking POG Meeting, CMS Week](https://indico.cern.ch/event/775533/)
+
   * 08 Nov 2018 - [Parallelized KF tracking with Matriplex & mkFit](https://indico.cern.ch/event/767256/contributions/3186911/attachments/1748733/2832514/KF_ECoM2x_Mario-Masciovecchio.pdf) - M. Masciovecchio, [CMS ECoM2X Group Meeting](https://indico.cern.ch/event/767256/)
 
   * 10 Jul 2018 - [Parallelized and Vectorized Tracking Using Kalman Filters with CMS Detector Geometry and Events](https://indico.cern.ch/event/587955/contributions/2937620/attachments/1683963/2706909/Chep2018-PKF.pdf) - M. Tadel, [CHEP 2018](http://chep2018.org)
