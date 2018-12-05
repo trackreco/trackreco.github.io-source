@@ -56,6 +56,8 @@ Summary: Publications and Presentations
 
   * 9 May 2016 - [Particle Track Reconstruction for the Large Hadron Collider: Progress in Many-Core Parallel Computing](https://www.cac.cornell.edu/Education/PtcleTrackRecoLHC.pdf) - S. Lantz, [Scientific Computing and Numerics (SCAN) Seminar](http://www.math.cornell.edu/~scan/index-s16.html) (Cornell University)
 
+  * 27 Apr 2016 - [The GPGPU & Many Vector Core Folly ... is there hope for HEP?](https://indico.cern.ch/event/521234/contributions/2144678/attachments/1264715/1871456/Tadel-SftTech-20160427.pdf) - M. Tadel, [CERN Software Technology Forum](https://indico.cern.ch/event/521234/)
+
   * 16 Mar 2016 - [Parallelized Tracking](https://www.jlab.org/conferences/trends2016/talks/cerati.pdf) - G. Cerati, [Future Trends in Nuclear Physics Computing workshop](https://www.jlab.org/conferences/trends2016/) 
 
   * 22 Feb 2016 - [Kalman Filter Tracking on Parallel Architectures](https://indico.hephy.oeaw.ac.at/event/86/session/0/contribution/12/material/slides/0.pdf) - K. McDermott, [Connecting The Dots 2016 (CTD2016) workshop](https://indico.hephy.oeaw.ac.at/event/86/overview) (Vienna)
