@@ -24,6 +24,11 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 12 Mar 2019 - [Parallelized Kalman-Filter-based Reconstruction of Particle Tracks on Many-Core Architectures
+with the CMS detector](https://indico.cern.ch/event/708041/contributions/3269689/attachments/1809414/2955052/MkFit_Mario-Masciovecchio_ACAT2019.pdf) - M. Masciovecchio, [ACAT 2019](https://indico.cern.ch/event/708041/)
+
+  * 20 Feb 2019 - [Parallelized Kalman Filter Tracking](https://indico.cern.ch/event/768528/contributions/3317916/attachments/1798915/2933534/KF_20Feb19_Mario-Masciovecchio_TrackingWorkshop.pdf) - M. Masciovecchio, [CMS Tracking Mini-Workshop](https://indico.cern.ch/event/768528/)
+
   * 05 Dec 2018 - [Update on the mkFit Project](https://indico.cern.ch/event/775533/contributions/3233620/attachments/1765970/2867262/MkFitUpdate-CMSWeekDec2018-Hall.pdf) - A. Reinsvold Hall, [Tracking POG Meeting, CMS Week](https://indico.cern.ch/event/775533/)
 
   * 08 Nov 2018 - [Parallelized KF tracking with Matriplex & mkFit](https://indico.cern.ch/event/767256/contributions/3186911/attachments/1748733/2832514/KF_ECoM2x_Mario-Masciovecchio.pdf) - M. Masciovecchio, [CMS ECoM2X Group Meeting](https://indico.cern.ch/event/767256/)
