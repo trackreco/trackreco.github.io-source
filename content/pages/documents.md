@@ -39,6 +39,8 @@ with the CMS detector](https://indico.cern.ch/event/708041/contributions/3269689
 
   * 26 Jun 2018 - [Update on vectorized KF track reconstruction](https://indico.cern.ch/event/738198/contributions/3046212/attachments/1674985/2688802/mkFit_TSG_260618v1.pdf) - S. Krutelyov, [CMS Trigger Studies Group Meeting, CMS Week](https://indico.cern.ch/event/738198/)
 
+  * 28 Mar 2018 - [Parallelized tracking algorithms](https://indico.cern.ch/event/658060/contributions/2922679/attachments/1624328/2586029/slides_mk_hsf_20180328.pdf) - M. Kortelainen, [Joint WLCG & HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
   * 21 Mar 2018 - [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks with Accurate Detector Geometry](https://indico.cern.ch/event/658267/contributions/2813732/attachments/1621151/2579355/Tadel-PKF-FullGeom-Ctd2018.pdf) - M. Tadel, [Connecting the Dots 2018](https://indico.cern.ch/event/658267/)
 
   * 7 Mar 2018 - [Parallelization of track reconstruction in view of Run 3 and beyond](https://indico.cern.ch/event/710729/contributions/2920998/attachments/1612400/2561787/mkFit_TSG_070318.pdf) - S. Krutelyov, [CMS Trigger Studies Group Meeting](https://indico.cern.ch/event/710729/)
