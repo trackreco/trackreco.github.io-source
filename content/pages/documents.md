@@ -24,6 +24,10 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+ * 10 Apr 2019 - [mkFit Project: Speeding up particle track reconstruction using a vectorized and parallelized Kalman Filter algorithm](https://indico.cern.ch/event/808930/contributions/3369939/attachments/1827858/2992114/MkFit-IRISHEP2019-Hall.pdf) - A. Reinsvold Hall, [IRIS-HEP Topical Meeting](https://indico.cern.ch/event/808930/)
+ 
+ * 10 Apr 2019 - [mkFit Project: Speeding up particle track reconstruction using a vectorized and parallelized Kalman Filter algorithm](https://indico.cern.ch/event/807391/contributions/3389445/attachments/1827632/2991635/MkFit-CMSWeekPlenary2019-Hall.pdf) - A. Reinsvold Hall, [PC, Trigger, PPD, O&C Plenary, CMS Week](https://indico.cern.ch/event/807391/timetable/)
+
   * 04 Apr 2019 - [mkFit Project: Speeding up particle track reconstruction using a vectorized and parallelized Kalman Filter algorithm](https://indico.cern.ch/event/742793/contributions/3298693/attachments/1823661/2983763/MkFit-CTD2019-Hall.pdf) - A. Reinsvold Hall, [CTD/WIT 2019](https://indico.cern.ch/event/742793/)
 
   * 12 Mar 2019 - [Parallelized Kalman-Filter-based Reconstruction of Particle Tracks on Many-Core Architectures
