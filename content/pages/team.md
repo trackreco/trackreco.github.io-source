@@ -46,4 +46,5 @@ Summary: Project team for parallel tracking project
   
 ### Acknowledgement
 
-This project is supported by [National Science Foundation](http://nsf.gov) grants PHY-1520942, PHY-1520969, PHY-1521042 and PHY-1120138. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+This project is currently supported by [National Science Foundation](http://nsf.gov) grants OAC-1836650, PHY-1520942 and PHY-1624356, and previously by
+PHY-1520969, PHY-1521042 and PHY-1120138. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
