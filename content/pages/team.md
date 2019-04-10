@@ -26,6 +26,8 @@ Summary: Project team for parallel tracking project
 
   * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
 
+  * Bei Wang - Princeton University, Research Computing
+
 ### Collaborators
 
   * [Giuseppe Cerati](http://computing.fnal.gov/giuseppe-cerati/) - Fermi National Accelerator Laboratory, Scientific Computing Division
@@ -35,6 +37,8 @@ Summary: Project team for parallel tracking project
   * [Boyana Norris](https://ix.cs.uoregon.edu/~norris/) - University of Oregon, Department of Computer and Information Science
   
   * [Brian Gravelle](https://ix.cs.uoregon.edu/~gravelle/) - University of Oregon, Department of Computer and Information Science
+
+  * Matti Kortelainen - Fermi National Accelerator Laboratory, Scientific Computing Division
 
 ### Former Contributors
 
@@ -46,5 +50,4 @@ Summary: Project team for parallel tracking project
   
 ### Acknowledgement
 
-This project is currently supported by [National Science Foundation](http://nsf.gov) grants OAC-1836650, PHY-1520942 and PHY-1624356, and previously by
-PHY-1520969, PHY-1521042 and PHY-1120138. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
+This project is currently supported by [National Science Foundation](http://nsf.gov) grants OAC-1836650, PHY-1520942 and PHY-1624356. Earlier support was provided by grants PHY-1520969, PHY-1521042 and PHY-1120138. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
