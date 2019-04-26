@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Parallel Kalman Filter Tracking'
 SITENAME = u'Parallel Kalman Filter Tracking'
-SITEURL = 'http://trackreco.github.io'
+SITEURL = 'https://trackreco.github.io'
 
 TIMEZONE = 'Europe/Paris'
 
