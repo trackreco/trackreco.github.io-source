@@ -6,6 +6,10 @@ Summary: Publications and Presentations
 
 ### Publications  
 
+  * Speeding up Particle Track Reconstruction in the CMS Detector using a Vectorized and Parallelized Kalman Filter Algorithm - Proceedings of the [2019 Connecting the Dots and Workshop on Intelligent Trackers (CTD/WIT 2019)](https://indico.cern.ch/event/742793/) (Valencia, Spain) [arXiv](https://arxiv.org/abs/1906.11744)
+
+  * Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures with the CMS Detector - Proceedings of the [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (Saas Fee, Switzerland) [arXiv](https://arxiv.org/abs/1906.02253)
+
   * Parallelized and Vectorized Tracking Using Kalman Filters with CMS Detector Geometry and Events - Proceedings of the [23rd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv](https://arxiv.org/abs/1811.04141)
 
   * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures](http://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042016) - Proceedings of the [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle, WA, USA) [arXiv](http://arxiv.org/abs/1711.06571), [DOI](https://doi.org/10.1088/1742-6596/1085/4/042016) [pdf](http://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042016/pdf)
