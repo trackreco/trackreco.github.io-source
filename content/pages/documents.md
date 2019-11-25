@@ -28,6 +28,18 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+  * 7 Nov 2019 - [Reconstruction of Charged Particle Tracks in Realistic Detector Geometry Using a Vectorized and Parallelized Kalman Filter Algorithm](https://indico.cern.ch/event/773049/contributions/3474739/attachments/1939750/3215768/mkfit-chep19.pdf) - G. Cerati, [24th Annual International Conference on Computing in High Energy and Nuclear Physics](https://indico.cern.ch/event/773049/)
+
+  * 9 Sep 2019 - [mkFit Status Update](https://indico.cern.ch/event/845939/contributions/3552711/attachments/1904223/3144487/TRK_POG_Sep2019.pdf) - A. Reinsvold Hall, [Tracking POG Meeting](https://indico.cern.ch/event/845939/)
+
+  * 17 Jul 2019 - [HEP Event Reconstruction with Cutting Edge Computing Architectures](https://fermicloud-my.sharepoint.com/personal/cerati_services_fnal_gov/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcerati%5Fservices%5Ffnal%5Fgov%2FDocuments%2Fscidac4%2Dpi%2Dmeeting%2D2019%2Epdf&parent=%2Fpersonal%2Fcerati%5Fservices%5Ffnal%5Fgov%2FDocuments&originalPath=aHR0cHM6Ly9mZXJtaWNsb3VkLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2NlcmF0aV9zZXJ2aWNlc19mbmFsX2dvdi9FZFV5NWx4cWdCQkttLVJ0RU13eHF1WUJON2RqRVRpdC1pYnJkVlU5YUtFYkh3P3J0aW1lPWF5VF9hN3B4MTBn) - G. Cerati, [SciDAC-4 PI meeting](https://www.orau.gov/scidac4pi2019/default.htm)
+
+ * 13 Jun 2019 - [Advanced Methods for Data Processing and Reconstruction](https://indico.fnal.gov/event/20914/session/0/contribution/14/material/slides/0.pdf) - A. Reinsvold Hall, [Informal DOE Briefing: USCMS/FNAL Computing Innovation towards HL-LHC](https://indico.fnal.gov/event/20914/)
+ 
+  * 6 Jun 2019 - [Speeding up CMS track reconstruction](https://indico.cern.ch/event/794370/contributions/3437026/attachments/1858264/3053049/MkFit-USCMS2019-Hall.pdf) - A. Reinsvold Hall, [2019 USCMS Annual Collaboration Meeting](https://indico.cern.ch/event/794370)
+
+  * 16 Apr 2019 - [Speeding up particle track reconstruction using a vectorized and parallelized Kalman Filter algorithm](https://indico.cern.ch/event/814501/contributions/3398547/attachments/1831039/2998599/MkFit-FNALTrackerGroup2019-Hall.pdf) - A. Reinsvold Hall, [CMS Tracker Activities at FNAL Working Group](https://indico.cern.ch/event/814501)
+
  * 11 Apr 2019 - [Parallelized Kalman Filter Tracking](https://indico.cern.ch/event/810005/contributions/3387531/attachments/1828539/2993945/MkFit_11Apr19_Mario-Masciovecchio_TrackingPOG.pdf) - M. Masciovecchio, [Tracking POG Meeting, CMS Week](https://indico.cern.ch/event/810005/)
 
  * 10 Apr 2019 - [mkFit Project: Speeding up particle track reconstruction using a vectorized and parallelized Kalman Filter algorithm](https://indico.cern.ch/event/808930/contributions/3369939/attachments/1827858/2992114/MkFit-IRISHEP2019-Hall.pdf) - A. Reinsvold Hall, [IRIS-HEP Topical Meeting](https://indico.cern.ch/event/808930/)
