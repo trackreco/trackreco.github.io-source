@@ -12,11 +12,9 @@ Summary: Project team for parallel tracking project
 
   * [Avi Yagil](http://physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=688) (PI) - University of California, San Diego, Department of Physics
 
-  * [Frank Wuerthwein](https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494) (PI) - University of California San Diego, Department of Physics
-
   * Dan Riley - Cornell University, Department of Physics
 
-  * Kevin McDermott - Cornell University, Department of Physics
+  * Tres Reid - Cornell University, Department of Physics
 
   * [Steve Lantz](http://www.cac.cornell.edu/slantz/) - Cornell University, Center for Advanced Computing
 
@@ -25,6 +23,8 @@ Summary: Project team for parallel tracking project
   * Mario Masciovecchio - University of California San Diego, Department of Physics 
 
   * [Matevz Tadel](http://profiles.ucsd.edu/matevz.tadel) - University of California San Diego, Department of Physics
+  
+  * Leonardo Giannini - University of California San Diego, Department of Physics
 
   * Bei Wang - Princeton University, Research Computing
 
@@ -41,6 +41,10 @@ Summary: Project team for parallel tracking project
   * Matti Kortelainen - Fermi National Accelerator Laboratory, Scientific Computing Division
 
 ### Former Contributors
+
+ * Kevin McDermott - Cornell University, Department of Physics (Ph.D., 2019)
+
+ * [Frank Wuerthwein](https://www-physics.ucsd.edu/fac_staff/fac_profile/faculty_description.php?person_id=494) (past PI) - University of California San Diego, Department of Physics
 
   * Matthieu Lefebvre - Princeton University, Research Computing
 
