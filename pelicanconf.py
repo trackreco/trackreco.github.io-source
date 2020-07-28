@@ -30,8 +30,8 @@ LINKS =  (
           ('CERN','http://cern.ch'),
           ('NSF','http://www.nsf.gov/'),
           ('Indico','https://indico.cern.ch/category/8433/'),
-          ('CTD2018','http://cern.ch/ctd2018'),
-          ('CHEP2018','http://chep2018.org/'),
+          ('CTD2020','http://cern.ch/ctd2020'),
+          ('CHEP2019','http://chep2019.org/'),
 		  )
 
 # Social widget
