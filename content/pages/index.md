@@ -29,21 +29,24 @@ measurement process, as well as the most sensitive to increased activity in
 the detector, and traditionally, the least amenable to parallelized 
 processing.
 
-This project aims to develop tracking algorithms based on the Kalman Filter 
-for use in a collider experiment that are fully vectorized and parallelized.
-These will be usable with parallel processor architectures such as Intel's 
-Xeon Phi and GPUs, but yet maintain and extend the physics performance 
-required for the challenges for the High Luminosity LHC (HL-LHC) planned
-for the 2020s.
+This project aims to develop fully vectorized and parallelized tracking
+algorithms based on the Kalman Filter for use in a collider experiment.
+The software will be usable with parallel architectures such as Intel Xeon
+processors and NVIDIA GPUs, yet maintain and extend the physics performance 
+required for the challenges associated with the High Luminosity LHC (HL-LHC)
+planned for the 2020s.
 
-The project also provides training for young researchers through a [dedicated 
-school on tools, techniques and methods for Computational and Data Science
-for High Energy Physics (CoDaS-HEP)](http://codas-hep.org). The CoDaS-HEP 
-school provides a broad introduction to these critical skills as
-well as an overview of applications High Energy Physics. Specific
-topics to be covered at the school include: Parallel Programming,
-Big Data Tools and Techniques, Machine Learning Technology and
-Methods as well as practical skills. The first CoDaS-HEP school
-took place on [10-13 July, 2017, at Princeton University](https://indico.cern.ch/event/625333/). 
-The second CoDaS-HEP school took place on [23-27 July, 2018, at Princeton University](https://indico.cern.ch/event/707498/).
+The project also initiated training for young researchers through the first
+[dedicated school on tools, techniques and methods for Computational and Data
+Science for High Energy Physics (CoDaS-HEP)](http://codas-hep.org). The
+CoDaS-HEP school provides a broad introduction to these critical skills as
+well as an overview of applications in High Energy Physics. Specific
+topics covered at the school include: Parallel Programming, Big Data Tools
+and Techniques, and Machine Learning Technology and Methods, as well as a
+variety of practical skills. The inaugural CoDaS-HEP school took place on
+[10-13 July, 2017](https://indico.cern.ch/event/625333/) at Princeton
+University. Subsequent schools took place on 
+[23-27 July, 2018](https://indico.cern.ch/event/707498/) and
+[22-26 July, 2019](https://indico.cern.ch/event/814979/timetable) at
+Princeton University.
 
