@@ -34,6 +34,18 @@ Summary: Publications and Presentations
 
 ### Presentations
 
+ * 5 May 2020 - [mkFit update: strip tracker unpacking and clustering on GPU](https://indico.cern.ch/event/909499/contributions/3850945/attachments/2032289/3401593/gpu-unpacking-2020-05-05.pdf) - Dan Riley, [CMS HLT Upgrade TSG Weekly Meeting](https://indico.cern.ch/event/909499/)
+ 
+ * 28 Apr 2020 - [mkFit update: strip tracker unpacking and clustering on GPU](https://indico.cern.ch/event/879448/contributions/3832308/attachments/2028104/3393518/gpu-unpacking-2020-04-28.pdf) - Dan Riley, [CMS Tracker DPG - Tracking POG general Weekly Meeting](https://indico.cern.ch/event/879448/)
+
+ * 22 Apr 2020 - [Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs](https://indico.cern.ch/event/831165/contributions/3717156/) - Bei Wang, [Connecting the Dots 2020](https://indico.cern.ch/event/831165/)
+
+ * 12 Feb 2020 - [mkfit and HL-LHC tracking in CMS](https://indico.cern.ch/event/882106/contributions/3741028/attachments/1986653/3310542/MkFit_Mario-Masciovecchio_IrisHEP.pdf) - Mario Masciovecchio, [Joint HSF event reconstruction/trigger working group and IRIS-HEP Topical Meeting](https://indico.cern.ch/event/882106/)
+ 
+ * 11 Feb 2020 - [Accelerated Full Tracking at (CMS) HLT](https://indico.cern.ch/event/880405/contributions/3709436/attachments/1985482/3308174/MkFit_Mario-Masciovecchio_ScoutingWorkshop.pdf) - Mario Masciovecchio, [CMS scouting kick-off workshop](https://indico.cern.ch/event/880405/)
+ 
+ * 5 Feb 2020 - [mkFit update: strip tracker unpacking and clustering on CPU and GPU](https://indico.cern.ch/event/879441/contributions/3724608/attachments/1982379/3301769/gpu-unpacking-2020-02-05.pdf) - Dan Riley, [CMS Tracker DPG/Strip Calibration and Local Reconstruction Weekly Meeting](https://indico.cern.ch/event/879441/)
+
   * 7 Nov 2019 - [Reconstruction of Charged Particle Tracks in Realistic Detector Geometry Using a Vectorized and Parallelized Kalman Filter Algorithm](https://indico.cern.ch/event/773049/contributions/3474739/attachments/1939750/3215768/mkfit-chep19.pdf) - G. Cerati, [24th Annual International Conference on Computing in High Energy and Nuclear Physics](https://indico.cern.ch/event/773049/)
 
   * 9 Sep 2019 - [mkFit Status Update](https://indico.cern.ch/event/845939/contributions/3552711/attachments/1904223/3144487/TRK_POG_Sep2019.pdf) - A. Reinsvold Hall, [Tracking POG Meeting](https://indico.cern.ch/event/845939/)
