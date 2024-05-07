@@ -13,8 +13,8 @@ ring straddling the border between Switzerland and France. It is
 by some measures the largest man-made scientific device on the
 planet. The goal of the LHC is to probe the basic building blocks
 of matter and their interactions. For example, in 2012, the Higgs boson 
-was discovered by the [CMS](https://home.cern/about/experiments/cms) and
-[ATLAS](https://home.cern/about/experiments/atlas) collaborations.
+was discovered by the [CMS](https://home.cern/science/experiments/cms) and
+[ATLAS](https://home.cern/science/experiments/atlas) collaborations.
 
 The LHC collides proton beams at the center of our detectors.
 By measuring the energy and momentum of the escaping particles, we
