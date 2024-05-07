@@ -6,7 +6,7 @@ Summary: Publications and Presentations
 
 ### Publications  
 
- * Speeding up Particle Track Reconstruction using a Parallel Kalman Filter Algorithm - Journal of Instrumentation, 2020 (accepted) [arXiv](https://arxiv.org/abs/2006.00071)
+ * Speeding up particle track reconstruction using a parallel Kalman filter algorithm - Journal of Instrumentation 09 (2020) P09030 [arXiv](https://arxiv.org/abs/2006.00071), [DOI](https://doi.org/10.1088/1748-0221/15/09/P09030)
 
  * Parallelizing the unpacking and clustering of detector data for reconstruction of charged particle tracks on multi-core CPUs and many-core GPUs - Proceedings of [Connecting the Dots 2020](https://indico.cern.ch/event/831165/) (virtual conference)
 
@@ -14,7 +14,7 @@ Summary: Publications and Presentations
 
   * Speeding up Particle Track Reconstruction in the CMS Detector using a Vectorized and Parallelized Kalman Filter Algorithm - Proceedings of [Connecting the Dots and Workshop on Intelligent Trackers (CTD/WIT 2019)](https://indico.cern.ch/event/742793/) (Valencia, Spain) [arXiv](https://arxiv.org/abs/1906.11744)
 
-  * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures with the CMS Detector](https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012078) - Proceedings of the [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (Saas Fee, Switzerland) [arXiv](https://arxiv.org/abs/1906.02253), [DOI](https://doi.org//10.1088/1742-6596/1525/1/012078), [pdf](http://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012078/pdf)
+  * [Parallelized Kalman-Filter-Based Reconstruction of Particle Tracks on Many-Core Architectures with the CMS Detector](https://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012078) - Proceedings of the [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (Saas Fee, Switzerland) [arXiv](https://arxiv.org/abs/1906.02253), [DOI](https://doi.org/10.1088/1742-6596/1525/1/012078), [pdf](http://iopscience.iop.org/article/10.1088/1742-6596/1525/1/012078/pdf)
 
   * [Parallelized and Vectorized Tracking Using Kalman Filters with CMS Detector Geometry and Events](https://www.epj-conferences.org/articles/epjconf/abs/2019/19/epjconf_chep2018_02002) - Proceedings of the [23rd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv](https://arxiv.org/abs/1811.04141), [DOI](https://doi.org/10.1051/epjconf/201921402002), [pdf](https://www.epj-conferences.org/articles/epjconf/pdf/2019/19/epjconf_chep2018_02002.pdf)
 
