@@ -5,15 +5,16 @@ Authors: Peter Elmer
 Summary: Parallel Kalman Filter Tracking Reconstruction
 Template: homepage
 
-The [Large Hadron Collider (LHC)](http://home.cern/topics/large-hadron-collider) at [CERN](http://home.cern/) is the highest energy
+The [Large Hadron Collider (LHC)](https://home.cern/topics/large-hadron-collider)
+at [CERN](https://home.cern/) is the highest energy
 collider ever constructed. It consists of two counter-circulating
 proton beams made to interact in four locations around a 27 kilometer
 ring straddling the border between Switzerland and France. It is
 by some measures the largest man-made scientific device on the
 planet. The goal of the LHC is to probe the basic building blocks
 of matter and their interactions. For example, in 2012, the Higgs boson 
-was discovered by the [CMS](http://cms.web.cern.ch) and
-[ATLAS](http://home.cern/about/experiments/atlas) collaborations.
+was discovered by the [CMS](https://home.cern/about/experiments/cms) and
+[ATLAS](https://home.cern/about/experiments/atlas) collaborations.
 
 The LHC collides proton beams at the center of our detectors.
 By measuring the energy and momentum of the escaping particles, we
@@ -50,3 +51,8 @@ University. Subsequent schools took place on
 [22-26 July, 2019](https://indico.cern.ch/event/814979/timetable) at
 Princeton University.
 
+Starting in 2018, this project became integrated into **IRIS-HEP**, the
+Institute for Research and Innovation in Software for High Energy Physics.
+The latest status of what is now called the **mkFit** project can be found at
+the [mkFit project page](https://iris-hep.org/projects/mkfit.html) on the
+[IRIS-HEP website](https://iris-hep.org).
