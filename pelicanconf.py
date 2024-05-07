@@ -26,8 +26,8 @@ MENUITEMS = (
 LINKS =  (
 	  ('IRIS-HEP','https://iris-hep.org')
           ('CoDaS-HEP school','http://codas-hep.org'),
-          ('CMS','http://cms.web.cern.ch'),
-          ('Atlas','http://home.cern/about/experiments/atlas'),
+          ('CMS','http://home.cern/science/experiments/cms'),
+          ('ATLAS','http://home.cern/science/experiments/atlas'),
           ('CERN','http://cern.ch'),
           ('NSF','http://www.nsf.gov/'),
           ('Indico','https://indico.cern.ch/category/8433/'),
