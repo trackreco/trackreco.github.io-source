@@ -24,16 +24,16 @@ MENUITEMS = (
 
 # Blogroll
 LINKS =  (
-	  ('IRIS-HEP','https://iris-hep.org')
-          ('CoDaS-HEP school','http://codas-hep.org'),
-          ('CMS','http://home.cern/science/experiments/cms'),
-          ('ATLAS','http://home.cern/science/experiments/atlas'),
-          ('CERN','http://cern.ch'),
-          ('NSF','http://www.nsf.gov/'),
-          ('Indico','https://indico.cern.ch/category/8433/'),
-          ('CTD2020','http://cern.ch/ctd2020'),
-          ('CHEP2019','http://chep2019.org/'),
-		  )
+         ('IRIS-HEP','https://iris-hep.org'),
+         ('CoDaS-HEP school','http://codas-hep.org'),
+         ('CMS','http://home.cern/science/experiments/cms'),
+         ('ATLAS','http://home.cern/science/experiments/atlas'),
+         ('CERN','http://cern.ch'),
+         ('NSF','http://www.nsf.gov/'),
+         ('Indico','https://indico.cern.ch/category/8433/'),
+         ('CTD2020','http://cern.ch/ctd2020'),
+         ('CHEP2019','http://chep2019.org/'),
+         )
 
 # Social widget
 #SOCIAL = (('github', 'http://github.com/trackreco'),
